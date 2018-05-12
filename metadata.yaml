@@ -1,0 +1,40 @@
+_repo: A-Treatise-on-Etching_33751
+_version: 0.1.0
+alternative_title: Traité de la gravure à l'eau-forte. English
+contributor:
+  translator:
+    agent_name: Koehler, S. R. (Sylvester Rosa)
+    alias: Koehler, Sylvester Rosa
+    birthdate: 1837
+    deathdate: 1900
+    gutenberg_agent_id: '36584'
+    url: http://www.gutenberg.org/2009/agents/36584
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lalanne, Maxime
+    aliases:
+    - Lalanne, Francois Antoine Maxime
+    - Lalanne, François Antoine Maxime
+    - Lalanne, Maxime-François-Antoine
+    birthdate: 1827
+    deathdate: 1886
+    gutenberg_agent_id: '36583'
+    url: http://www.gutenberg.org/2009/agents/36583
+description: ''
+gutenberg_issued: '2010-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33751'
+  lccn: '12013305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NE'
+- !lcsh 'Etching -- Technique'
+title: A Treatise on Etching
+url: http://www.gutenberg.org/ebooks/33751
